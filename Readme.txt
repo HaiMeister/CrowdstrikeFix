@@ -1,3 +1,5 @@
+NOTICE: The deive filtering appear to not work in the recovery env...
+
 Just a script I wrote to help in an effort to speed up this process.
 Nothing special and im not the best so please feel free to let me know how this can be inproved.
 
